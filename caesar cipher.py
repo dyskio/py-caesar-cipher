@@ -1,6 +1,5 @@
 # Caesar Cipher
 
-
 # OUTCOME:
 #   plain_text = "hello"
 #   shift = 5
